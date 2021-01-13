@@ -1,0 +1,6 @@
+src/__test__
+public/*.js
+package.json
+node_modules
+build
+dist
